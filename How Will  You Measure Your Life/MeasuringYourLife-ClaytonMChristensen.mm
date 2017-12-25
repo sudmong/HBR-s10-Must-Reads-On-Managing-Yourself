@@ -22,7 +22,7 @@
 </node>
 <node CREATED="1514186703644" ID="ID_1774830902" MODIFIED="1514187153992" POSITION="right" TEXT="Money vs Satisfaction">
 <font BOLD="true" NAME="Segoe UI" SIZE="12"/>
-<node CREATED="1514186716311" ID="ID_794358086" MODIFIED="1514187119319" TEXT="Frederick Herzberg Asserts that the powerful motivator in our livesis not the money; its the oppotunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements">
+<node CREATED="1514186716311" ID="ID_794358086" MODIFIED="1514193255506" TEXT="Frederick Herzberg asserts that the powerful motivator in our lives is not the money; its the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements">
 <font NAME="Segoe UI" SIZE="12"/>
 </node>
 </node>
@@ -59,7 +59,7 @@
 <font NAME="Segoe UI" SIZE="12"/>
 <node CREATED="1514190573527" ID="ID_1016744098" MODIFIED="1514190821275" TEXT="Generally, you&apos;ll be humble only if you feel good about yourself"/>
 <node CREATED="1514190877568" ID="ID_547244881" MODIFIED="1514190927397" TEXT="Humble people usually have high self esteem"/>
-<node CREATED="1514190929481" ID="ID_1027281976" MODIFIED="1514190993235" TEXT="Humility is was defined not by self deprecating behavior or attitudes BUT by the esteem with which you regard others"/>
+<node CREATED="1514190929481" ID="ID_1027281976" MODIFIED="1514193283675" TEXT="Humility is defined not by self deprecating behavior or attitudes BUT by the esteem with which you regard others"/>
 </node>
 <node CREATED="1514187047680" ID="ID_4530837" MODIFIED="1514187119303" TEXT="Choose the right yardstick">
 <font NAME="Segoe UI" SIZE="12"/>
